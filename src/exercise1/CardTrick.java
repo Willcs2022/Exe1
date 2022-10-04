@@ -26,7 +26,7 @@ public class CardTrick {
             
             
         }
-        
+        // I'm Done 
         System.out.print("Hello below you can enter your cards" );
         System.out.println("Enter 11 for jack, 12 for queen, 13 for king, 14 for ace: ");
         int m = input.nextInt();
@@ -37,6 +37,8 @@ public class CardTrick {
         
          while(magicHand >= c){
              System.out.print("Keep trying");
+             System.out.print("Keep trying");
+	     System.out.print("Keep trying");
          
          }
         
